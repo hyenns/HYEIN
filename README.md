@@ -15,3 +15,5 @@
 - **SQL 튜닝_5**: 📄[Note](https://www.notion.so/SQL-_5-7bee7ccd28fd4ee0b3846f8a7dacc21f?pvs=4)
 
 - **SQL 튜닝_6**: 📄[Note](https://www.notion.so/SQL-_6-bc85a83a11974d54ab49adaf6d4c2638?pvs=4)
+
+- **SQL 튜닝_7**: 📄[Note](https://www.notion.so/SQL-_7-b171ddb51fa14b989d8da38ea25df6e1?pvs=4)
