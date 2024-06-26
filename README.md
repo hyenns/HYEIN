@@ -1,10 +1,6 @@
 # SQL 튜닝 수업 노트
 
-안녕하세요. 🌟
-
-SQL 튜닝 수업 노트입니다.
-
-[<img src="https://github.com/oracleyu01/rac_class/blob/main/001.png?raw=true" width="600" height="400">](https://github.com/hyenns/HYEIN/blob/main/001.png)
+SQL 튜닝 수업 노트🌟
 
 &nbsp;
 
