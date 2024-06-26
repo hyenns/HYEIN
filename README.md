@@ -1,8 +1,8 @@
 # SQL 튜닝 수업 노트
 
-안녕하세요, 여러분!  🌟
+안녕하세요. 🌟
 
-초보자도 쉽게 배울 수 있도록 SQL튜닝 수업 내용을 정리하였습니다.
+SQL 튜닝 수업 노트입니다.
 
 [<img src="https://github.com/oracleyu01/rac_class/blob/main/001.png?raw=true" width="600" height="400">](https://github.com/hyenns/HYEIN/blob/main/001.png)
 
