@@ -11,8 +11,8 @@
 ## 수업 필기( ☀️ 2024년 6월 26일 updated)
 
 
-- **SQL튜닝_1**:  📄[노트][(https://github.com/oracleyu01/rac_class/blob/main/rac%EA%B0%9C%EB%85%90.md)
-  &nbsp;](https://www.notion.so/SQL-_1-ba1abc18e12e43779d855f86c4a15f14?pvs=4)]
+- **SQL튜닝_1**:  📄[노트]
+- [https://www.notion.so/SQL-_1-ba1abc18e12e43779d855f86c4a15f14?pvs=4]
   
 - **2. 클러스터(cluster) 가 무엇인가 ?**: 📄 [노트](https://github.com/oracleyu01/rac_class/blob/main/RAC%ED%95%B5%EC%8B%AC2.%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0(Cluster)%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80.md)
   
