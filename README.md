@@ -1,5 +1,5 @@
 # SQL 튜닝 Note
-
+<img src="https://github.com/hyenns/HYEIN/blob/main/001.png" width="700" height="400">
 &nbsp;
 
 ## Note List( update: 2024.06.26)
