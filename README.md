@@ -1,8 +1,8 @@
-# SQL 튜닝 수업 노트
+# SQL 튜닝 Note
 
 &nbsp;
 
-## 수업 필기( ☀️ 2024년 6월 26일 updated)
+## Note List( update: 2024.06.26)
 
 - **SQL 튜닝_1**:  📄[Note](https://www.notion.so/SQL-_1-ba1abc18e12e43779d855f86c4a15f14)
   &nbsp;
