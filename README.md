@@ -18,6 +18,8 @@
 
 - **SQL 튜닝_7**: 📄[Note](https://aluminum-magpie-a29.notion.site/SQL-_7-b171ddb51fa14b989d8da38ea25df6e1?pvs=4)
 
+  
+&nbsp;
 
 # 빅분기 준비를 위한 R 수업 Note
 
