@@ -2,7 +2,7 @@
 <img src="https://github.com/hyenns/HYEIN/blob/main/001.png" width="700" height="400">
 &nbsp;
 
-## Note List( update: 2024.06.26)
+## Note List(update: 2024.06.26)
 
 - **SQL 튜닝_1**: 📄[Note](https://aluminum-magpie-a29.notion.site/SQL-_1-ba1abc18e12e43779d855f86c4a15f14?pvs=4)
   
@@ -27,7 +27,7 @@
 
 &nbsp;
 
-## Note List( update: 2024.06.27)
+## Note List(update: 2024.06.27)
 
 
 - **R을 활용한 머신러닝_1**: 📄[Note](https://aluminum-magpie-a29.notion.site/R-_1-9d9dc485c51a480091fcdd4a6b368f86?pvs=4)
