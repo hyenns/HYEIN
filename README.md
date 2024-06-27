@@ -4,7 +4,7 @@
 
 ## Note List( update: 2024.06.26)
 
-- **SQL 튜닝_1**:  📄[Note](https://aluminum-magpie-a29.notion.site/SQL-_1-ba1abc18e12e43779d855f86c4a15f14?pvs=4)
+- **SQL 튜닝_1**: 📄[Note](https://aluminum-magpie-a29.notion.site/SQL-_1-ba1abc18e12e43779d855f86c4a15f14?pvs=4)
   
 - **SQL 튜닝_2**: 📄[Note](https://aluminum-magpie-a29.notion.site/SQL-_2-951945436da44b7d98672a24cfded8d0?pvs=4)
   
@@ -30,8 +30,8 @@
 ## Note List( update: 2024.06.27)
 
 
-- **R을 활용한 머신러닝_1**:  📄[노트](https://aluminum-magpie-a29.notion.site/R-_1-9d9dc485c51a480091fcdd4a6b368f86?pvs=4)
+- **R을 활용한 머신러닝_1**: 📄[노트](https://aluminum-magpie-a29.notion.site/R-_1-9d9dc485c51a480091fcdd4a6b368f86?pvs=4)
 
   
-- **R을 활용한 머신러닝_2**: 📄 [노트](https://aluminum-magpie-a29.notion.site/R-_2-df1ce1016f4d4e98a505e8731f5cc3c0?pvs=4)
+- **R을 활용한 머신러닝_2**: 📄[노트](https://aluminum-magpie-a29.notion.site/R-_2-df1ce1016f4d4e98a505e8731f5cc3c0?pvs=4)
 
