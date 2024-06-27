@@ -4,7 +4,7 @@
 
 ## Note List( update: 2024.06.26)
 
-- **SQL 튜닝_1**:  📄[Note](https://www.notion.so/SQL-_1-ba1abc18e12e43779d855f86c4a15f14)
+- **SQL 튜닝_1**:  📄[Note](https://www.notion.so/SQL-_1-ba1abc18e12e43779d855f86c4a15f14?pvs=4)
   
 - **SQL 튜닝_2**: 📄[Note](https://www.notion.so/SQL-_2-951945436da44b7d98672a24cfded8d0?pvs=4)
   
